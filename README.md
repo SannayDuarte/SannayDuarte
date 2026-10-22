@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @SannayDuarte
 - 👀 I’m interested in Programação 
-- 🌱 I’m currently learning Desenvolvimento FullStack/Analista de Dados
+- 🌱 Desenvolvimento FullStack/Analista de Dados
 
 ## Oiii meu nome é Sannay Duarte, sou uma manaura apaixonada por tecnologia!
 # 💫 About Me:
